@@ -1,0 +1,9 @@
+C:\aula>fsutil file createnew texte.txt
+Uso: fsutil file createnew <nome_de_arquivo> <comprimento>
+   Exemplo: fsutil file createnew C:\testfile.txt 1000
+C:\aula>fsutil file createnew texte.txt 1000
+
+  https://www.ufsm.br/app/uploads/sites/762/2021/05/Principais-comandos-do-prompt-do-Windows-CMD.pdf
+
+https://pt.wikihow.com/Desligar-um-Computador-Windows-por-Linha-de-Comando#:~:text=Digite%20shutdown%20%2Ds%20no%20Prompt%20de%20Comando.&text=Caso%20queira%20desligar%20seu%20computador,shutdown%20%2Ds%20%2Dt%2000%20.
+https://www.auditorioibirapuera.com.br/como-criar-arquivo-em-cmd/#google_vignette
